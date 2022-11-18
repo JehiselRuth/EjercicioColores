@@ -1,0 +1,138 @@
+#TituloColores  {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.RecuadroVerde  {
+    background-color: darkgreen;
+    height: 40px;
+    width: 401px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 412px;
+    
+    
+}
+h4   {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Black   {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Teal   {
+    background-color: #008080;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+.Blue   {
+    background-color:blue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Navy   {
+    background-color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Lime   {
+    background-color: lawngreen;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#White   {
+    background-color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+
+#Purple   {
+    background-color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Yellow   {
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+.Olive   {
+    background-color: olive;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+.Red   {
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Grey   {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Fuchsia   {
+    background-color: fuchsia;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 57px;
+}
+#Green   {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 10px;
+    width: 191px;
+}
+  
+.CuadrosDeColores1 li  {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+        
+}
+.CuadrosDeColores2 li  {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+         
+}
+.CuadrosDeColores3 li  {
+    display: flex;
+    text-align: center;
+    padding-left: 412px;
+    
+         
+}
+h3  {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.FilaTexto1  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.FilaTexto2  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
